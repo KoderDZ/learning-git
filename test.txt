@@ -1,2 +1,4 @@
 Start
 Sledeci red
+Ubacio red mimo GITa
+Dodatni podaci
