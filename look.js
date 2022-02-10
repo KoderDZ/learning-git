@@ -1,0 +1,7 @@
+/* lagani css */
+
+.opsta klasa{
+  
+  
+}
+
